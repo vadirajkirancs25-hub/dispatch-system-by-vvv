@@ -1,9 +1,9 @@
 # Smart Delivery Dispatch System
 
 ## Team Information
-- **Team Name**: [Team Name]
-- **Year**: [Year]
-- **All-Female Team**: [Yes/No]
+- **Team Name**: [Bumbulbee]
+- **Year**: [2026]
+- **All-Female Team**: [no]
 
 ## Architecture Overview
 
